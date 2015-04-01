@@ -1,0 +1,11 @@
+Very Basic  Diff -u oldfile newfile
+
+dropbox, googledocs, and wikipedia have version saving...  so does Git
+
+git's commit is better because you are in control. and have commented on your commits.
+
+git's repository or multiple file commits is an added bonus
+
+git help diff
+
+Michael
