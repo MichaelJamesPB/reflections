@@ -1,0 +1,9 @@
+bunch of junk so far
+
+git init
+git log
+git status
+
+git add == goes into staging area
+
+git commit == commits all files in staging area
